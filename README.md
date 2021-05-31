@@ -4,6 +4,6 @@ Clear Design for Travel Project
 
 ## Picture
 
-<img src="https://www.facebook.com/photo?fbid=10222775944404593&set=pcb.10222775945004608" />
+<img src="https://raw.githubusercontent.com/flutter-id/lancong/master/assets/images/one.jpg" />
 
-<img src="https://www.facebook.com/photo?fbid=10222775944644599&set=pcb.10222775945004608">
+<img src="https://raw.githubusercontent.com/flutter-id/lancong/master/assets/images/two.jpg">
